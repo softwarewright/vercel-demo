@@ -1,0 +1,15 @@
+{
+  "name": "vercel-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:softwarewright/vercel-demo.git",
+  "author": "Darrius Wright <darrius.wright@jupiterone.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo \"Hello World\""
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  }
+}
